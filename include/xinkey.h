@@ -28,6 +28,6 @@
 #define 字 char
 #define 毫 float
 #define 微 double
-#double 翻 unsigned
-#double 笼 enum
+#define 翻 unsigned
+#define 笼 enum
 
