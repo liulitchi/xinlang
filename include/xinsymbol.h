@@ -1,6 +1,6 @@
 #define 为 =
-#define 且 &&
-#define 兼 ||
+#define 交 &&
+#define 并 ||
 #define 取馀于 %
 #define 损 -
 #define 益 +
