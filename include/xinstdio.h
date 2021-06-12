@@ -2,3 +2,4 @@
 #define 曰 puts
 #define 览 scanf
 #define 得 fgets
+#define 空 NULL
