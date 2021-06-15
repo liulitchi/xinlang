@@ -2,7 +2,7 @@
 #define 回 return
 #define 隐 void
 #define 调 switch
-#define 案 case
+#define 枝 case
 #define 蒂 default
 #define 掣 break
 #define 若 if
@@ -10,7 +10,7 @@
 #define 馀则 else
 #define 逢 while
 #define 历 for
-#define 恒有 const
+#define 有恒 const
 #define 架 struct
 #define 度 sizeof
 #define 至 goto
@@ -25,7 +25,7 @@
 #define 万 short
 #define 亿 long
 #define 兆 long long
-#define 字 char
+#define 符 char
 #define 毫 float
 #define 微 double
 #define 翻 unsigned
