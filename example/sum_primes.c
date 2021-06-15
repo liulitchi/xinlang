@@ -11,6 +11,7 @@
 #include "/home/litchi/xinlang/include/xinsymbol.h"
 
 #define 计 score
+#define 篱 NUM
 #define 是质数也 is_prime
 
 翻 兆 计 为 2ULL; // 首个质数
