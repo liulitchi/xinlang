@@ -9,7 +9,7 @@
 #define 益一 ++
 #define 损一 --
 #define 以其盈遂损 -=
-#define 以其虚遂益 +=
+#define 以其亏遂益 +=
 #define 以其狭遂乘以 *=
 #define 以其阔遂除以 /=
 
